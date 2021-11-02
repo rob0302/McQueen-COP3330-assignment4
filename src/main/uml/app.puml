@@ -1,0 +1,15 @@
+@startuml
+
+class app {
+
+  +main{static}
+  +start()
+  +void printList{static}
+  +String[] createList{static}
+  +void editList{static}
+
+}
+
+
+
+@enduml
